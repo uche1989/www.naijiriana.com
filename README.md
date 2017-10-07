@@ -1,4 +1,4 @@
-## Welcome to naijiriana.com
+## Welcome to naijiriana
 
 You can use the [editor on GitHub](https://www.naijiriana.com) to maintain and preview the content for your website in Markdown files.
 
